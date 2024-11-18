@@ -1,0 +1,31 @@
+:root {
+  --link-color: #03588a;
+}
+
+body {
+  margin: 0 !important;
+  padding: 0 !important;
+  background-color: #f3f6f999;
+}
+
+.notice-title {
+  text-decoration: none;
+  color: var(--link-color);
+}
+
+.notice-title:hover {
+  text-decoration: underline;
+}
+
+.slider-container {
+  padding: 0 30px;
+}
+
+.slider-container .slick-prev::before,
+.slider-container .slick-next::before {
+  color: var(--link-color);
+}
+
+.section-title {
+  color: var(--link-color);
+}
