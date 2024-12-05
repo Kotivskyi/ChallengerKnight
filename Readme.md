@@ -1,5 +1,7 @@
 **Warrning:** Code challenge with hidden Troyan 
 
+Read more: https://www.linkedin.com/feed/update/urn:li:activity:7270114822950703107/
+
 **!!Educational Purpose only!!**
 
 
